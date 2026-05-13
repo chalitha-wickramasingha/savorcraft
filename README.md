@@ -73,7 +73,7 @@
 
 ### ✅ Live Website:
 Visit the project instantly:  
-👉 [https://chalitha-wickramasinghe.github.io/savorcraft/](https://chalitha-wickramasinghe.github.io/savorcraft/)
+👉 [https://chalitha-wickramasinghe.github.io/savorcraft/](https://chalitha-wickramasingha.github.io/savorcraft/)
 
 ### 🖥️ Run Locally:
 1. Clone or download the repository.
@@ -86,7 +86,7 @@ Visit the project instantly:
 
 **Chalitha T. Wickramasingha**  
 
-🔗 [GitHub](https://github.com/chalitha-wickramasinghe)  
+🔗 [GitHub](https://github.com/chalitha-wickramasingha)  
 🔗 [LinkedIn](https://www.linkedin.com/in/chalitha-t-wickramasingha)
 
 ---
